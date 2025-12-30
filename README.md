@@ -23,7 +23,7 @@ The following Python libraries are required to run this notebook. You can instal
 
 ## Model Architecture
 
-This project utilizes a pre-trained GoogLeNet model from `torchvision.models`. The final classification layer of the GoogLeNet model is replaced and fine-tuned for the specific number of classes in the bean leaf lesion dataset.
+This project utilizes a ppytorch model and a pre-trained GoogLeNet model from `torchvision.models`. The final classification layer of the GoogLeNet model is replaced and fine-tuned for the specific number of classes in the bean leaf lesion dataset.
 
 ## Key Steps
 
